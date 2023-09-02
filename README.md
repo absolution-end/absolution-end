@@ -9,12 +9,12 @@ As a dedicated and enthusiastic Machine Learning and Deep-Learning enthusiast, I
 - 💬 Ask me about Latest Technologies, Philosphy and phycology 
 
 <div align="center">
-<img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=absolution-end&theme=buefy" />
-<img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=absolution-end&theme=buefy"  />
-<img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=absolution-end&theme=buefy"  />
-<img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=absolution-end&theme=buefy"/>
-<img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=absolution-end&theme=buefy&utcOffset=8" />
-<img height="180em" src="[http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=absolution-end&theme=buefy&utcOffset=8](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=absolution-end&theme=buefy)" />
+<img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=absolution-end&theme=dark" />
+<img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=absolution-end&theme=dark"  />
+<img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=absolution-end&theme=dark"  />
+<img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=absolution-end&theme=dark"/>
+<img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=absolution-end&theme=dark&utcOffset=8" />
+<img height="180em" src="[http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=absolution-end&theme=dark&utcOffset=8](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=absolution-end&theme=buefy)" />
 <img height="180em" src="[(http://github-profile-summary-cards.vercel.app/api/cards/stats?username=absolution-end&theme=buefy](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=absolution-end&theme=buefy)"/>
 <img height="180em" src="[http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=absolution-end&theme=buefy](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=absolution-end&theme=buefy&utcOffset=8)" />
 
