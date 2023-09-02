@@ -14,6 +14,10 @@ As a dedicated and enthusiastic Machine Learning and Deep-Learning enthusiast, I
 <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=absolution-end&theme=buef"  />
 <img height="180em" src="(http://github-profile-summary-cards.vercel.app/api/cards/stats?username=absolution-end&theme=buefy"/>
 <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=absolution-end&theme=buefy&utcOffset=8" />
+<img height="180em" src="[http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=absolution-end&theme=buefy&utcOffset=8](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=absolution-end&theme=buefy)" />
+<img height="180em" src="[(http://github-profile-summary-cards.vercel.app/api/cards/stats?username=absolution-end&theme=buefy](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=absolution-end&theme=buefy)"/>
+<img height="180em" src="[http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=absolution-end&theme=buefy](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=absolution-end&theme=buefy&utcOffset=8)" />
+
 </div>
 
 <!--
